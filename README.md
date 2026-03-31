@@ -10,3 +10,7 @@ Simple Flask app that exposes /summarize and uses ADK + Gemini to produce short 
 
 ## Deploy to Cloud Run
 See the Cloud Run deployment steps in the project README.
+
+##   Demo video 
+https://github.com/user-attachments/assets/c9a38e0f-048c-4e6a-8336-e312141b9f81
+
